@@ -1,0 +1,4 @@
+##Spring Cloud空项目和一些子项目
+
+注册中心为eureka1模块，提供服务为eurekaclient模块，zuul模块调用
+eurekaclient提供的服务，完成对学生基本的增删改查
